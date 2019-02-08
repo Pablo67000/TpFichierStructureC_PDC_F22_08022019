@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1549665692 source:c:\users\pablo\documents\algorithme\c\exercices notés\tpfichier\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"identite.h"
+
+1549665941 c:\users\pablo\documents\algorithme\c\exercices notés\tpfichier\identite.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1549665402 source:c:\users\pablo\documents\algorithme\c\exercices notés\tpfichier\identite.c
+	"identite.h"
+
